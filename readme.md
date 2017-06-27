@@ -2,7 +2,7 @@
 
 2. Extract NetCents module from zip file and upload folder to `/app/code/`
  
-   Example: /app/code/NetCents
+   Example: `/app/code/NetCents`
 
 3. Run commands in SSH
 
