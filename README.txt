@@ -1,4 +1,4 @@
-1. Create /code/ directory if it doesn't already exist in magento app/ path.
+1. Create `/code/` directory if it doesn't already exist in magento app/ path.
 
 2. Extract NetCents module from zip file and upload folder to /app/code/
  
